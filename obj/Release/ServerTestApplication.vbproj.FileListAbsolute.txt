@@ -1,0 +1,6 @@
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\bin\Release\ServerTestApplication.exe.config
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\obj\Release\ServerTestApplication.Form1.resources
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\obj\Release\ServerTestApplication.Resources.resources
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\obj\Release\ServerTestApplication.vbproj.GenerateResource.Cache
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\obj\Release\ServerTestApplication.xml
+G:\ASTRO Development\AstroDLL VB2015\AstroSubscribeDLL_serverDLL\ServerTestApplication\obj\Release\ServerTestApplication.vbprojResolveAssemblyReference.cache
